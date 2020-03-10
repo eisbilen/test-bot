@@ -100,6 +100,7 @@
 - I am from [Charlotte](location)
 - [St. Petersburg](location)
 - [Detroit](location)
+- I am from [Unittted Kigfffon](name)
 
 ## intent:name
 - My name is [Juste](name)
@@ -134,6 +135,9 @@
 - [Tyler](name)
 - [Raphael](name)
 - I am [Jazz](name)
+- [Eren](name)
+- I am [Erdem](name)
+- My name is [Erdem](name)
 
 ## intent:subscribe
 - Can you subscribe me to the newsletter?
